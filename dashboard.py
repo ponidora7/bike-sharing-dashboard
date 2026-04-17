@@ -18,14 +18,6 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # ==============================================================================
-# KONFIGURASI PATH (Disesuaikan dengan struktur folder Anda)
-# ==============================================================================
-
-
-# Alternatif: Jika path di atas tidak berfungsi, gunakan path absolut:
-# DATA_DIR = Path(r"D:\2. Semester 6\Konversi DBS\submission\data\dashboard")
-
-# ==============================================================================
 # KONFIGURASI VISUAL
 # ==============================================================================
 class VisualConfig:
